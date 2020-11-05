@@ -1,0 +1,14 @@
+public class NewDie {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+			NewMethodDice d1,d2;
+			d1 = new NewMethodDice();
+			d2 = new NewMethodDice();
+			
+			int d1FaceValue = d1.getFaceValue();
+			int d2FaceValue = d2.getFaceValue();
+			
+			System.out.println("d1 face value = " + d1FaceValue);
+			System.out.println("d2 face value = " + d2FaceValue);
+	}
