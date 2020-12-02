@@ -11,4 +11,6 @@ public class NewDie {
 			
 			System.out.println("d1 face value = " + d1FaceValue);
 			System.out.println("d2 face value = " + d2FaceValue);
+	
+	
 	}
